@@ -8,3 +8,8 @@
 
 data loader → features → logistic regression → layer sweep (every 4th layer).
 DoD: Plot of probe accuracy vs. layer; best layer identified.
+
+----
+1. Models to test/run
+    DeepSeekMath‑7B,
+    Mathstral‑7B,
